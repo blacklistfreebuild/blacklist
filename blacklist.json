@@ -1,4 +1,3 @@
-example1
-example2
-example3
-example4
+{
+    "message": "Este es un mensaje desde tu propia API!"
+}
