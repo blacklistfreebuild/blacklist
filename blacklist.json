@@ -1,5 +1,7 @@
-usuario1
-usuario2
-usuario3
-usuario4
-usuario5
+{
+    "Player123": "Hacking",
+    "NoobKiller": "Exploiting bugs",
+    "Griefer99": "Griefing",
+    "SpamBot": "Spamming",
+    "CheaterX": "Using cheats"
+}
