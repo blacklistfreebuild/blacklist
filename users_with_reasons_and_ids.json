@@ -9348,16 +9348,5 @@
     "date": "7 August 2024",
     "time": "23:59 GMT-3",
     "additional": "none"
-  },
-  {
-    "username": "NuevoUsuario",
-    "uuid": "nuevo-uuid",
-    "blacklist-user-status": "true",
-    "by": "Hainjku",
-    "reason": "Inappropiate Builds",
-    "date": "1 August 2024",
-    "time": "00:00 GMT-3",
-    "additional": "none",
-    "blacklist-user-id": "#851"
   }
 ]
