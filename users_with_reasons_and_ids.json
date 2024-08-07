@@ -9348,43 +9348,5 @@
     "date": "7 August 2024",
     "time": "23:59 GMT-3",
     "additional": "none"
-  },
-  {
-    "username": "testuser",
-    "uuid": "dummy-uuid",
-    "blacklist-user-status": "true",
-    "blacklist-user-id": "#851",
-    "by": "Hainjku",
-    "reason": "testing",
-    "date": "August 7, 2024",
-    "time": "22:45:23",
-    "additional": "none"
-  },
-  {
-    "uuid": "dummy-uuid",
-    "blacklist-user-status": "true",
-    "blacklist-user-id": "#852",
-    "by": "Hainjku",
-    "date": "August 7, 2024",
-    "time": "22:48:18",
-    "additional": "none"
-  },
-  {
-    "uuid": "dummy-uuid",
-    "blacklist-user-status": "true",
-    "blacklist-user-id": "#853",
-    "by": "Hainjku",
-    "date": "August 7, 2024",
-    "time": "22:48:47",
-    "additional": "none"
-  },
-  {
-    "uuid": "dummy-uuid",
-    "blacklist-user-status": "true",
-    "blacklist-user-id": "#854",
-    "by": "Hainjku",
-    "date": "August 7, 2024",
-    "time": "22:49:20",
-    "additional": "none"
   }
 ]
