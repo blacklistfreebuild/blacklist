@@ -1,0 +1,5090 @@
+[
+  {
+    "username": "4Banman",
+    "uuid": "642142a10f7a407bb152ce1df7b1bbb8",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "TheBigMission",
+    "uuid": "1eb1ac47d6f64227abe57238b536549f",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "Lillyput2001",
+    "uuid": "ac241094bedb4664ba258338e1a9d735",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "bedwqrz",
+    "uuid": "3141824db5254dd8b0f372bbed5353e1",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "Lmno",
+    "uuid": "429156cbc89c429a9677b0d387568ef4",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "Yugemuy",
+    "uuid": "006b9f49dacd4c6aa841052b32015fb9",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "redaverages",
+    "uuid": "134df4c1ea5f45a8b16494add90cfe68",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "Scored",
+    "uuid": "d594b054bea64cf5884754dd949c395c",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "DempiIsTrash",
+    "uuid": "18d2d31278d74353aa5fbe5e0b9a2f1e",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "Jetcruzader83",
+    "uuid": "57e321cde2b54181b37dba86fc2cd670",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "Wififear",
+    "uuid": "ba29f12e73844457a82985f43b6e8e55",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "DaddyjasonFM",
+    "uuid": "8d54f490fccf42cfb9f5382d68461eb2",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "RustyAndy20",
+    "uuid": "3d2f1866d4cf47d7b824ec50460daeaa",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "TheLittleOne42",
+    "uuid": "47052a3f8015443db7b9ea97d8aff59e",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "Sqicer",
+    "uuid": "b29b1d2032204a099fdd18d05ef81583",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "ZetrexZero",
+    "uuid": "c40ab396fecc4805aa71d23540d00c89",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "BenJi1978",
+    "uuid": "02d0db4d7d264e87ae92e48cd25be2c4",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "TW_G0r3",
+    "uuid": "48418930fb5e4aeaafaa9605f5cdd01f",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "KillerDev",
+    "uuid": "10b2776452bc42e1b242795c4b0397a4",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "janotawesome",
+    "uuid": "e44b3fe4cdcf4fd3b2f5b9ed1dfb169a",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "Waxings_Son",
+    "uuid": "dec31886c6cb4c81a070ce6829d085de",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "ILoveTeemoooo",
+    "uuid": "99f6af374499442c9f460c50ba6a1f36",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "Isaac613",
+    "uuid": "9810696b6bb047ab8e3a8dce1eb17548",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "TintedIsHere",
+    "uuid": "ded0deed87474404bd8b248ae9a84952",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "Demon80",
+    "uuid": "b7250efec8e1453197cd316240f8cdcd",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "Mysticallys",
+    "uuid": "f1efa2749f704930a1defc791bc7add2",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "CrackConsumption",
+    "uuid": "4136e4ac376143e1880fd4596c074aad",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "Lone_Sur",
+    "uuid": "c5c975b2748b429597b4f8e484694fb8",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "OhJuice",
+    "uuid": "5593fbb278f242f4859d640553ec522a",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "LiamBCrafty",
+    "uuid": "a795e01a095e407a8d6b38d4a2c62bec",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "MemeBoi_XD",
+    "uuid": "d75db548297842cabe76e262f22a8126",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "_StopCapping_",
+    "uuid": "02d736f1d1014343a82363e01867fc57",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "The_1337_Hunt3r",
+    "uuid": "7fc5b564e45c47aa82220480582237f7",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "xKemon",
+    "uuid": "1ef595bcd0db43b9931397c31145e7bc",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "Buyers",
+    "uuid": "922de097d68d472fa3154e2c0cb1ae39",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "Shafo",
+    "uuid": "b2ca886e350b4ba98226e5016d5a7863",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "DEWIERONTOP",
+    "uuid": "14497b6129c249f6a2347591084a85d8",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "isaaccly",
+    "uuid": "270ee3d8bf3d41e1830426f5a12c9de5",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "asajisjikowidwiq",
+    "uuid": "92da65f5a3484fd680d853e6befd618f",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "Calypso456",
+    "uuid": "d1bc4ff061e047bdbcd7dec289985fc6",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "Xd_titaniumtroop",
+    "uuid": "4a16ff84d93446f4b0eb5e593d11a6b2",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "SuperSparkle83",
+    "uuid": "cb7b1bcc128248a6a90691dee0802604",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "Ironitestia",
+    "uuid": "4cfac0fc878b4bc29bb32a26be1ed0be",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "YellowFlash8698",
+    "uuid": "5ed6af5ea3284b5480ca03108dd6c450",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "GasperP1ke",
+    "uuid": "add5fc274a5a46208e302a6830525f9d",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "Kigz",
+    "uuid": "8d03dc3fdf894fc499966747f5d72845",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "Mini_Freezer",
+    "uuid": "6ce3f5bdac164c1292743880a87fc704",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "MIODa",
+    "uuid": "976edb730a68417196f884053833379e",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "ItzACatXD",
+    "uuid": "a84185597c314349ac2f3e9ad177d353",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "Camp521",
+    "uuid": "d58246d7d1804aac851368ff24ecce6c",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "xanxhy",
+    "uuid": "17dd6bbf19654359a68959a54b57c4f7",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "SkyblockPigg123",
+    "uuid": "8f90db4cb5d84312b927098bf5d1bcc9",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "DoomPlayer99",
+    "uuid": "44d0e5da2b8e43a3a4a1cc2e07147c99",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "twisted_joy",
+    "uuid": "b294cf157f98422db4e1f904f53e33f1",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "ewnet",
+    "uuid": "c709608429c848d1a7956265c7abb74a",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "pbacterio",
+    "uuid": "1ccb5e6151974ca8ad8b09593fc706a1",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "Hel3x",
+    "uuid": "6d0f9bd2f8e04f4fb4bf0b72260dbe10",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "neediest",
+    "uuid": "b7977d58e497435ab9eba143e54be36b",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "coyel",
+    "uuid": "8174a91090804c0dbede42b88922741e",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "Ithyphallophobia",
+    "uuid": "efa647a3dc8c4ecb90f4b5c859cfc59e",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "WildDogXD",
+    "uuid": "0ae0519772744f5caeb0067be0ee01b6",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "Kamillo13579",
+    "uuid": "ec0d6804cff7443585579420fe073f77",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "DogeGaming72",
+    "uuid": "cc9bbee241de4883aad1a7cebfaab588",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "Askq0",
+    "uuid": "15b4155c9ceb458c892756ce57aacce5",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "pekoXD",
+    "uuid": "9ab90c29b9f140d6bfd9924f81de1902",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "AbduloVera2012",
+    "uuid": "de9c4b35d8534b649325c7c97f4103e4",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "BonkersTurnip",
+    "uuid": "27ea7d81a6424ba281dd1cbfdc3509f1",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "ReaganScott",
+    "uuid": "1dbeceb4ad494194b760f04937b7af19",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "Farokyn",
+    "uuid": "0d83001361b94538b57c10b6239e8497",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "noobert3000",
+    "uuid": "07e4ec92c1234504bf216f2d4e4d8332",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "YoBoyMonkeys",
+    "uuid": "ceb79ecc3e01486f9e1e30a441088f89",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "Sir_Sonic",
+    "uuid": "5b7ac67168254efebfe8a928ab0be475",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "PoisedPerson",
+    "uuid": "6c585d7598fe4aafae47d2fb116bfb28",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "Duckiesarechunky",
+    "uuid": "94f1e2aeb9784515854a3ba96d5c9500",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "fqcu",
+    "uuid": "23218645cecd4ef6aa263915704274aa",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "Unghetto",
+    "uuid": "54e3fe3f78f74130b6de1150721abad0",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "NickeyPlckles",
+    "uuid": "e355b89b6ae04c5b8bfaf4ff807df307",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "Herobrine163529",
+    "uuid": "48ba5fa3421248fd858ea7544bee0b95",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "alivefishso",
+    "uuid": "9f2951d8d661423fa9dc763630f263ef",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "fajny_stas",
+    "uuid": "e88a0b13048c43179824c4b869eff52b",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "3vanti",
+    "uuid": "5f48f136d7414ba2b44f3116e2c12259",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "BoldCharger",
+    "uuid": "be566fc8e85d4d1c9738d837036864d9",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "prst",
+    "uuid": "7d1bf34b666445a497fcb4dcfe3f68f4",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "TATE563",
+    "uuid": "26b6079988ba43dcaa4cc5dc969abff0",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "Dkxcw13",
+    "uuid": "55eb37e1d0014bf189028a9d5f3d3936",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "Stingray_Virus",
+    "uuid": "79c0847580d84117aaf2112e33fd50dc",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "Samam325",
+    "uuid": "aaa731afa8a14a5f80bcc31df87d9fbb",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "iloveautoclickor",
+    "uuid": "f2c3178e922944ab9c7125a9575b42de",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "giganticnigerian",
+    "uuid": "d29ba3f7cca842cfbfdd32f06524787a",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "XMrAnderson528X",
+    "uuid": "593a703f1f1b417bb665f9329b9e5b3f",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "Lesdanuw",
+    "uuid": "7150666071af49749b87d8668edae644",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "Killerwhale__",
+    "uuid": "6cd27b7525ea4e83ae565db9c126c493",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "Skribbe",
+    "uuid": "d9798cb79aa842a2b209c31f750e584a",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "qpro10082011",
+    "uuid": "5db3675b4c7e41edb1541ecaa89ce2ef",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "Breezyfur",
+    "uuid": "b1356d0d5b144f75afaaf5dcf2bfd20a",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "MaximDJ",
+    "uuid": "08d22c38b81243ea80fd2f95aac5a717",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "RyderJ414",
+    "uuid": "bec11e7e76da4868bccdb882e21281e0",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "Diego060615",
+    "uuid": "7998adbe97fe4d948c014689959d8be1",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "SkulleStorm",
+    "uuid": "eee1526146dd4fb6bfe35a6f3222b4f8",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "variace",
+    "uuid": "e18c5f5a018b4be996f3abe150bedba6",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "Book_Lord",
+    "uuid": "0e396502f7ec428681d5cda88cbacb56",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "VanCam2010",
+    "uuid": "a404a41f23eb4594aff194a834bbc845",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "iLoveTheSlem",
+    "uuid": "4081c085a0da47e9853f8abdc3447034",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "pocalunek",
+    "uuid": "e00a74db5e6547bcb5fc9de68b1c47c5",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "44_unknown_31",
+    "uuid": "3e22726022fa41d691f7b2867ac71c13",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "FrostyDevill",
+    "uuid": "14c582330bae4a1da8d4dc9e0b64b7a7",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "euler1_sinx",
+    "uuid": "1459bcf6b3544d9a87e4371725bf3ae1",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "epkamcvnv2",
+    "uuid": "791975da64e24e578369881f066d8db9",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "Yell1e",
+    "uuid": "4a5e65380a6347f98cbbd7cafd011c59",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "JustWombo",
+    "uuid": "7aa6dc95457148b48a79e1f2e605e963",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "hairycarti",
+    "uuid": "5b6a958c90624be7974f4aa53c857210",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "ztb__",
+    "uuid": "2d356c0d3c3f4188856c0048d7f66a0d",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "zTB_",
+    "uuid": "a431ac2cfcee4ad880d99b3f8aadf9d3",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "Jtheonly_1",
+    "uuid": "ca47ac06aa8e4fb4a36dd6477dc5108a",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "ASKARAAAFELLOFF",
+    "uuid": "141d8e8816e24d72a16320c07973cea9",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "_Archie_1",
+    "uuid": "7130e5a3ccc24a6998d5fa443da4478b",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "0bsesja",
+    "uuid": "b250c73d53744a3d9ef677679a9e9845",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "Coolian42",
+    "uuid": "d373da5d2132421ca627f6a139a9f450",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "hpwhite",
+    "uuid": "5a0978fdc812409b9dac97c0c9d0f7f6",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "Liam2011",
+    "uuid": "4023c1d70b454082b28cf55a28a93262",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "NickRighetti",
+    "uuid": "7aad6ebcff454be090361fcf2208b97b",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "MAX2323E",
+    "uuid": "ba898e21f3264d3d8492747bb09d6583",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "BAZZAjr",
+    "uuid": "e1fd74704a254467a8da3bdfe01bdd84",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "69hahahaha",
+    "uuid": "e05114b3d15e4a2097fc1af8fb1d813d",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "Significaxt",
+    "uuid": "3f360d379a7b4907ae096d7d4a05bf9b",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "amicah2010",
+    "uuid": "6ea7f90c05e24f989d55c1ef38e8c61d",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "Filippozze",
+    "uuid": "41c0dbdc6e93419aab9a6458db6d9e0c",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "FreakingChicken",
+    "uuid": "ccff0c0564eb43838cd3ef3215652558",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "Torpens",
+    "uuid": "7cf8641114a94acba4514f17484b4fe4",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "long333333333333",
+    "uuid": "0d75abbc2c474f8c900950b02dcfefd7",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "WLELEWEW",
+    "uuid": "0262e26f90db457c8a761124512c8871",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "zadgov",
+    "uuid": "8331982eb642485e907e761e848ddd91",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "iLoveShafo",
+    "uuid": "b2b117ae3ebd4181aa7e60f7aa6d7205",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "flow77950",
+    "uuid": "708b6396d8ab48248b115d98a339a90d",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "_vino",
+    "uuid": "e107e4bbd0534feaa170eba67fef1445",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "skyfox65",
+    "uuid": "f3bf0609b4224586a1326f605c49726f",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "Mlad",
+    "uuid": "b40bc2dbcd4f45beb1efb2aadf230ac8",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "Moonix_Minecraft",
+    "uuid": "3819d48503f146148cee4a5c996c18a2",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "EagleKnight113",
+    "uuid": "134b5a15f68d475cb5d53d0dbb6b27cc",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "Mistiqe",
+    "uuid": "1a802f43bc6b42b9a63417ee72c6b592",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "Skyydrox",
+    "uuid": "eb28119e544f4c05bd2d4dec0515bce3",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "EasyBugC",
+    "uuid": "3656d44778794433af668c005edca89c",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "1z84",
+    "uuid": "df7470f4819b41d4a0ac0865c24caee7",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "gvn2mine",
+    "uuid": "8428cc5acbc34b5f94adb2c2131c897c",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "Tiago002",
+    "uuid": "50860f84a6eb4b36b47ac7a6e30dc6c1",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "MasterNoob_123",
+    "uuid": "e8ca95d85cb84ca395bf26374a10a3d7",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "McMyrsky",
+    "uuid": "24cb1b5b9b0841438087692fa2fb3ef3",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "Ukvy",
+    "uuid": "5f543654c3934855967cb575dd7da26b",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "pinkfrost2014",
+    "uuid": "61a758da8b5b42e5b2a0c13c3a5f170f",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "bunnylau",
+    "uuid": "f5f6c730f70d4857900198a375c039fc",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "Totoglakoss8",
+    "uuid": "83eb18216fbb4bd6b5b3d3220cfb2236",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "GBachlis",
+    "uuid": "4ffc34d057fd4edaac871868df836c7e",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "Skylord12564",
+    "uuid": "f80424917f6445e6999ca1aa8e7ddd7d",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "xVoora",
+    "uuid": "6d75c537621c47ebb5d244d5ae92340b",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "J8va",
+    "uuid": "5aa59a4c04da4fb7aeba10466b6591bc",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "ExNoFear",
+    "uuid": "746d20e96ccd46018e13e2188515be65",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "sssparkyyy",
+    "uuid": "d8ad2cc8dda34ae09049e07bb3d1304f",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "SuccMyBigToe",
+    "uuid": "3ce61fd25c6946f2937877f988b65da1",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "AK_D3LK",
+    "uuid": "46bb6c3e048a411c8011eee768b24a9b",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "Noah5981",
+    "uuid": "f0a8a00abd434c0f951ecf61b43487c2",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "Cyyg",
+    "uuid": "cf15c386f06f4c15b448dd16d0514793",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "IslandHaze",
+    "uuid": "203132bc3ac7468d96c371af51f6d9c1",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "szn2",
+    "uuid": "c896be943f54421684850887c18aba59",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "DingDongUn",
+    "uuid": "d46fbead997347dba3d5d1680e0d7293",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "Nomedapro",
+    "uuid": "0300af1a64484852bab9d9f20c1faaaf",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "OGEMPIRE",
+    "uuid": "a01e0fad6c1c4bd3a0bca73d9ee62c2a",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "Letog",
+    "uuid": "c0ad8828c08a45cd806724c684dc06d1",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "H0ops",
+    "uuid": "b8dc9810100f4ab58904f01bf15c706b",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "PetrosEdits",
+    "uuid": "97620afab8644f14882b04dd6f3b2e28",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "jabbin",
+    "uuid": "448cfce46af943e3ba3ffc8ce5a5c413",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "FlyD22",
+    "uuid": "c6d1d48a884e46a3af2ea5f8b0171d52",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "Vote4DonaldTrump",
+    "uuid": "491b1e496aec4e18b6b88f3d79a3e774",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "ayuumi4",
+    "uuid": "f5b7413fb2644916a34befb6bdd05dc6",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "MapTester500",
+    "uuid": "c0393f105efb4fd39188403d62204033",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "TeoXD_1",
+    "uuid": "4000cc6fef694a0991057dcf21447f80",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "HollowNinja542",
+    "uuid": "258794a3711249988449eb615a6da737",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "ApexDino",
+    "uuid": "717a451eaa05466c8993be916d35fe9e",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "SirKelpJunior",
+    "uuid": "e1ec93579af34a559e60e1ba08f97525",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "Bxyy",
+    "uuid": "1e4ed82d613841d99f663b8a30271b6a",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "Justin061813",
+    "uuid": "4e627a0de7564683b470694843e86323",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "AlvinFirst",
+    "uuid": "ebf3d68345604bec9a2d0c36f76dafae",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "ChewyLewis_",
+    "uuid": "14ffe6bdd846442faaaf2db830d501e4",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "Aussprache",
+    "uuid": "755fb661280e4ca0a418937767367c60",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "marioman423",
+    "uuid": "052dd37701294f71befaf9591c3f201a",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "EazyBed",
+    "uuid": "0f298cfefc904cf5868763a23a4c7c9c",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "marsalla432",
+    "uuid": "4231c966c82d4f289efb0af163e86853",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "Douglasthe1st",
+    "uuid": "929cb31661504545a7bcc586910b08c3",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "iIIlililililil",
+    "uuid": "f46506ef69144c32930c3bc872b2e2cc",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "AS0urLemon",
+    "uuid": "0d0a6b152735439c8bb76e60d3ee7a65",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "JakeDaBulldog",
+    "uuid": "234d5a0201b54d7eb8d92292f53fd756",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "uBabianBolt",
+    "uuid": "37700093a1174166b3496a05724ad787",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "xsdq",
+    "uuid": "67174d8b99c840218ce1a4a99a7f19c9",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "_dragonlord",
+    "uuid": "597934ce758042378823812935345034",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "tawib",
+    "uuid": "25db8bde086443fca8ac40621c95cf0f",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "Xot1c",
+    "uuid": "126aae07a57d4dcf9a7ec50e236a747b",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "WishingHope",
+    "uuid": "06b146664f6b4ffb89ab970a1c005ef2",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "spinesprain",
+    "uuid": "23d7eef50f9a4c2e80938693890c34ea",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "Qs7sneaky",
+    "uuid": "6d9d2acbaf6a49e7b0471e147954bca2",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "bahahahahahaha",
+    "uuid": "ad5fc37254974f199189a3d581c0c11d",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "oDrippy",
+    "uuid": "25f3a8ed0aeb4f70bab91fe46f43d378",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "Fluzzle14",
+    "uuid": "249d75f152db42819c92e448a50d129d",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "The_crafteur298",
+    "uuid": "7e28b210010641e0b9703e06443a719c",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "RilGames",
+    "uuid": "243293898ee04827b7d4d372fd7ccc7c",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "Playboiiiiiii_",
+    "uuid": "9deca3ca185b4f92b05899525b18a4cd",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "AgentPiggy",
+    "uuid": "2fe5c92032c746dda325640bcbaf841d",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "Skypi83",
+    "uuid": "a2239244eb674a0abd39ea3265c16991",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "TUO1000",
+    "uuid": "36fa68d901bb4e828506edbbcd76e6cf",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "F0NDU",
+    "uuid": "5599fabc1e90417bbb6e5be0542bdc92",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "ohxy",
+    "uuid": "22f1da193c6a4a098fd5289712aff97c",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "8s5",
+    "uuid": "741017b0def74919a31c9eb79bb05970",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "SammRod2008",
+    "uuid": "c07190649406420eb011a1dde162c676",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "seluce",
+    "uuid": "8d814bbd7d84420bb2f8c15dcbc61e21",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "jielomatic",
+    "uuid": "ee9f3acf60c34263b2fea98f155a624c",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "jjiaozi",
+    "uuid": "e4252c765ce845d288833bf98d6925c5",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "hayehhXDOQOHIO",
+    "uuid": "75e536d952e74ebdb51108f45dff58d0",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "SamsungOven1",
+    "uuid": "9c72c1ff4c024349bddaa8e951c082b4",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "itsorang",
+    "uuid": "5d8c8f96ddbe410591ba5c05bff9e0b1",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "bootlegboy",
+    "uuid": "30aba0326e254f34b81f0a330cb1ba34",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "DfyXzXzXz",
+    "uuid": "f87309125a544604847b31db5f862d16",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "Dr3am_L0V3R_Xoxo",
+    "uuid": "c220dfbdefcd4bb5b0a4140a69e9d042",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "nlgee",
+    "uuid": "0a7e2e55668d446aaddb8bdc674c20c1",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "mlgee",
+    "uuid": "79f9465bb199426aba95115eb3e73b2e",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "fartsmella849",
+    "uuid": "fff8496053034cfdb2e85d40c7fdc9a6",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "ViciousDaddy77",
+    "uuid": "68ca1438c3b14114a8010537853138f1",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "Katerenai",
+    "uuid": "e82d1e43e8324b329871f8fdc460e020",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "drstmm",
+    "uuid": "394777ff8f264a85bdb095efe8ed9c22",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "AAAAAAAAAAAAAHHH",
+    "uuid": "6ac3d5c1aea34373957dcbcade2a1a71",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "_Beargoober709_",
+    "uuid": "cc7adb26cd9f411780b46a3a21986c06",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "_Coiner",
+    "uuid": "a443dc578afd4c6e870219d6fe108e3c",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "JankoPadawans",
+    "uuid": "869491a7a2ca452bb67484aba07fdbbf",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "JnA1",
+    "uuid": "8d491784832b488890ddf1ddace37494",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "Furoax",
+    "uuid": "f25e8ea30e5345639a32c852e8419c47",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "Nunzzio",
+    "uuid": "2472962f3bba4a93b67c6a683131e5ad",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "stalefrito",
+    "uuid": "7258697ebe9e487ca1a9d81b685e23c3",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "BlockGPT",
+    "uuid": "70d350ecd0094ca0bd0b692d1c577285",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "MineBusterX",
+    "uuid": "628a06cf4aaf44d08e009cb1847da014",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "NoOneIsHere6113",
+    "uuid": "c6de00614f524988be7c0d3133a47682",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "magnusbrv",
+    "uuid": "936d5e7ac3f841939067f24699c3bc4a",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "unaware00",
+    "uuid": "c93344e0f0e14627b65c466d80b989e5",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "Jqr3d",
+    "uuid": "0ef2b5860bd144efa449501b5dbaa436",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "Waddleboney",
+    "uuid": "fdb348cad015438b95d6f0f5b3fbb50d",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "BIGDADDYAKSEL",
+    "uuid": "62f2ea2449d040c19b702f3de5ebd7d3",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "R3inB0w224",
+    "uuid": "be648498ee694596b1673433f7d0c55e",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "Hxssxn2trap",
+    "uuid": "d087be35113c41cb938ec263c26fc880",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "M0ch1B01",
+    "uuid": "7b042a0911774042bcf450b605531f24",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "SilverXShadow251",
+    "uuid": "0991ab0a730a4b2ba9978176a346af9e",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "MailmanChan420",
+    "uuid": "a9941543be36400c860f9985b17c23a9",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "Pinaattil3ttu",
+    "uuid": "74fded3e823a483ab83308ed7481506e",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "knowingly",
+    "uuid": "bc6fb7703d3a4d30954c6c87ace3155c",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "CKLY",
+    "uuid": "f4fe05fd6ba64e1c8e9e3a0f76daf999",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "ShadowCrown",
+    "uuid": "0f72d4c42b124a0f9815e9f9320cf47c",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "Cyclone232",
+    "uuid": "71eca158e2764c8b8bfdbefeb5bbced9",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "Clareten",
+    "uuid": "39176d3dea0e4cbf8e3a68b038ba551e",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "sebasYTpvp",
+    "uuid": "0b83d6df3881410c81b5785a66559e2d",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "Lawrenswtf",
+    "uuid": "76a650c5b06544a587b99f74b76206e3",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "ZeDragt",
+    "uuid": "fc79ac92b3364f2aa75a0a787bea62d9",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "CASAatrox",
+    "uuid": "46feb81521d7470ca8aa5e19457eeae5",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "spaffx",
+    "uuid": "395a671ae65d4ebfa4e6d462b520eba1",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "Filip1n0",
+    "uuid": "080756aa2b6e4bb9bb34821876d0905b",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "YukiHae",
+    "uuid": "38d707f051c1494182dd96ba06305058",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "Xenoch24",
+    "uuid": "c48bb61ee9594988be48eee492dce403",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "IsThePizzaGood",
+    "uuid": "829acc4a1adb4368bf33200d4a567768",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "EyTy",
+    "uuid": "675a019343a844bfac77f2ba13ebf2f8",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "drxgging",
+    "uuid": "68d0f0d54df141ff8cd16ee94cfd3896",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "erotkyaman1234",
+    "uuid": "2390673b5fbe4e8eb08657d9d441a22b",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "bno75837os",
+    "uuid": "9f26da69d54b4d949bbc9fc2c5e0352f",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "TheGalaxyOFC",
+    "uuid": "f9f53eb72a764809ab875d7ba19aff38",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "MrzInariozLover",
+    "uuid": "fffd4eaf9e50411bbade0b72c4e089d6",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "Nonlegitimate",
+    "uuid": "a7c56d833225468ca936331008c0d02c",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "loirapr",
+    "uuid": "1cfb06d16fae4edcaddff9f5924f500c",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "Kacll9999",
+    "uuid": "4780568f6de34ea39bc437f64075e0c1",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "Ozon07",
+    "uuid": "c12a32ea67074495baff651581550a18",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "NoeldaResolve",
+    "uuid": "8ed24b3f86c847bead5bd9c641b7a80c",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "RohanSharma_ODY",
+    "uuid": "c08b2ecf314d4de1beaafba05513c95e",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "flaccidLaygg",
+    "uuid": "91ade48cc3614a72b6387951cceb0e3a",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "_CloudyFever_",
+    "uuid": "bf1d9c02ff7c45aeb999091eeb9d1cd4",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "Barbiedollloverx",
+    "uuid": "6316caff152a4a43b2dba572bdef06cb",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "expendableVivid",
+    "uuid": "febced4f71734271943db94a98598ac2",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "fat17155",
+    "uuid": "ed99ffcaddfd4635af0bef7aa69497ca",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "ifingerscuri",
+    "uuid": "ecce12b388754b5fad2ce267adf0d65d",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "Chromodynamical",
+    "uuid": "9bc9c92666dc462999c4773dff3cdf98",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "on1inetraded",
+    "uuid": "7d7330704ad74815b81a9fb2c6f8681c",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "Efkanisik",
+    "uuid": "217d8d63668d483b9a3db58332362f88",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "DrMorro",
+    "uuid": "5be76bf83acd42bfa73802284be8cca2",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "r00tbert",
+    "uuid": "0d8fb7f10b18432fada67e0a39858087",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "BurgerHeadBeamer",
+    "uuid": "90afdcbe0c314a20ad842aa0aef3a862",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "tinkieWinkies",
+    "uuid": "9df3f21ac4954aedb0a92f1b26212c25",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "schnappycake",
+    "uuid": "39c39a54032d46cd877161e85cb6a250",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "steam421",
+    "uuid": "0e93a2f41d364859aba48d190e9c8212",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "Mqkszo",
+    "uuid": "60917f1b162d411d9b235e447c424797",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "NoSoy",
+    "uuid": "ac36cc97b5d1451087b503b2800b2754",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "ScarrSoul",
+    "uuid": "4da0318e83334b5d84c2b0edfdb81308",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "meph_",
+    "uuid": "198ec3df4c2f41e399fcac13230d9bfc",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "prayforme0_",
+    "uuid": "3c710882edbe4df0b6f582223d38c84f",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "BL1TZIN",
+    "uuid": "2da3f80154584df89386faa54c64d80a",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "MCPlayer002",
+    "uuid": "1c77dcc11f104401988085168e5d0500",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "Sillycats5",
+    "uuid": "47cc18754bbc4126b9331cb1781aa615",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "x_Undead_x",
+    "uuid": "ac282f5fd6db42569429aa3f0b359620",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "luckyking876",
+    "uuid": "517b593814374e7ca035d2cec8335c11",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "GoRomo",
+    "uuid": "5460a9c89db049f080bd962b219df364",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "cyproxiuss",
+    "uuid": "54e5cbb4898b48ca8d23ee0d7c81903c",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "whathesigma",
+    "uuid": "46b5411295e34a2296d08e7681a0e911",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "Hundredkey61",
+    "uuid": "8e873555d91b49a199ab458329761d4c",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "Exeze",
+    "uuid": "fa44545ec8ad4897a87d374f96082841",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "_Wo1f",
+    "uuid": "3b977442566b490c97d83df4c6493ecd",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "AUTOCLCK",
+    "uuid": "8bbb43a5a5074c0abc6e75e315a322dd",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "castlecore",
+    "uuid": "f871ca1a7120477e84be811dc5929d4a",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "AnyAdminItem",
+    "uuid": "88bf84c4add34de391e91326b3237076",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "GelHeadKen",
+    "uuid": "0aa729f9f4df4e5d865ff38ddc003741",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "BigHob",
+    "uuid": "f8295f4969e2485b956843769ff76c85",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "dyljnnn",
+    "uuid": "50fda4198dc3408485c14c6a2666a9f4",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "BladezEdge",
+    "uuid": "159f79cff4ab45dcb5766d120fa9aea0",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "Justin_Is_BigBot",
+    "uuid": "311c1e5ad3da491599148d1efbf9c6b6",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "uphe_",
+    "uuid": "660fa830fd8548af86939bc4282daf60",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "constitutionalis",
+    "uuid": "23b552dc92774cddb6232072172f0d7e",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "Lokachop",
+    "uuid": "3cabb32a3bee4621988e1b3756feb1b0",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "rinkebingus",
+    "uuid": "233e3dacf0b94f2c8c55b93d5a68dcb1",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "7chutcho",
+    "uuid": "04fcfd82a53d4d0cbdfa004cf525f95a",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "GLOBOYS0SA",
+    "uuid": "068afea431344ab996d4eb2583cd9347",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "Olnx",
+    "uuid": "702ea19e4d384af2ad8141f65738e079",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "Xikun0",
+    "uuid": "de0ae8bb8b354e0a8858887686529066",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "JaaSonDeRuLoo",
+    "uuid": "ee284d3e110344d09690efb61f3e0492",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "JDMC64",
+    "uuid": "24863c1bee4443f58b750cc2d4a95268",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "zzuriel",
+    "uuid": "b24bf14b0a924f75b7033ed426f7a935",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "KingNova",
+    "uuid": "c780179ec5644dfb8eccf6df3ccf584c",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "cyph3rpunk",
+    "uuid": "ea2ba1c99c0a4dd19a4bc554691a4982",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "tm45_",
+    "uuid": "9ec151d4201d4b44b48b0f5ec4dbb670",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "Samidha",
+    "uuid": "f5f26e6396d646389ce7d61a53512d72",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "FreakyGPFS",
+    "uuid": "28c2e4020f7845adbfadb9f9781e570f",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "ScienceDrummer",
+    "uuid": "7a8f00e94e084a06856e521ff0e9c2b3",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "Stone_Free83",
+    "uuid": "e0f83fb6299546cc8bc8b5d2fbe1754c",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "akemor",
+    "uuid": "b25cde555eb04a778567ad19716651dc",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "Pancqke",
+    "uuid": "063afe5cf055464099f24f029014bff7",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "Qigit",
+    "uuid": "6aad4f1bd25c4c6d86a8aaa32263cae1",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "TankM7",
+    "uuid": "9f90b8ca4022425a8ee00934b9bcb578",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "0PQT",
+    "uuid": "5bec227d6a984fa5b8f04eca4d54a896",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "mozith",
+    "uuid": "98a1ba957d324e80a885b63330c96e67",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "SloppyToppy46",
+    "uuid": "f1f672fe13804f37a83c822c1ceaa78d",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "Necromancrr",
+    "uuid": "634c4e66cb2f42208e71bd09af936d11",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "DigiGamer10",
+    "uuid": "2d22e97e76e44088909b413bc853bf58",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "Cllcrm",
+    "uuid": "5e25de68b91d48ac908df45f7ad37959",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "0hBenji",
+    "uuid": "77a6e935b34e4207b3efae46d1a729dc",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "yorstn",
+    "uuid": "fe0e32de387a4e3da8ea36d4854d43d3",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "GlitchedStar",
+    "uuid": "e9994c89ac4544ad830dc1566910e25b",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "M_Bear95",
+    "uuid": "323f2bd1669a4c0db64b97edaa0fe152",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "rickyexists",
+    "uuid": "c4e7c4060a0e4124864330557cd21162",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "skinnyrats",
+    "uuid": "383dc5c51fb4415dba5ddbd9f8664be1",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "yoisakikanade_",
+    "uuid": "6f24a7e6396e467195c8564b8ed1dcc1",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "Fico56",
+    "uuid": "372c0cbdb8f249ba93d2cc3891cb2821",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "AgedPigeon70070",
+    "uuid": "f8e4834246f54711812596a7adc64893",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "hanif0",
+    "uuid": "647c9c515d6a4c96a76f50459b6070c9",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "Nopeeey",
+    "uuid": "8729499b2d584eb9971e9a6293035fae",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "Isqqc",
+    "uuid": "b3d4b59b09f347b48398add800153b54",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "C3dr1cZun",
+    "uuid": "f5e26c906ccb4aa2a6e9df9ef3c3dfca",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "KsiFan69",
+    "uuid": "e53c694a64004421b60105e98e9a9b97",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "HeBeBig",
+    "uuid": "9ec56f3db5134cfeb91802f13f020115",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "PurpLympic_",
+    "uuid": "4eaf47e859c24756b826ddbadcf81f65",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "Shulkker",
+    "uuid": "ba065e87c43a4291a048382f59fde27b",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "Keita",
+    "uuid": "480141ebaf324dda9801b6ab7397f7e5",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "lopyblade7",
+    "uuid": "6c7e64643bb64575b5668af993a03f4b",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "CyberTalk",
+    "uuid": "e42691643b5042a59ecaee34c4f03db8",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "Wqlfyz",
+    "uuid": "672373dfc7ff4a19ab5d3ec4463cf51b",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "Coveurt",
+    "uuid": "4126a5e805fc49c28ebc572af149e206",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "ZateMind",
+    "uuid": "10836aa978ef487487ff510210f74503",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "BrosCrazy",
+    "uuid": "670ac58eefd44c3fa6bb2801a8ac8039",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "Logram29",
+    "uuid": "a23ea2159bad4d4ba01b4a592c0f58a8",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "boss_uae1",
+    "uuid": "5a35cccb1fee428d8d72b7ea07e185cb",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "nga2fast",
+    "uuid": "e22283e96ef5439cb7d69435300666a4",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "jacksfit",
+    "uuid": "8dc152cd1d6644b1970eda079b47abfa",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "PolrRs",
+    "uuid": "9e842e4220084415be3cda9ac680f122",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "lump_of_coal",
+    "uuid": "7a363450537b4019b0d50a55ab64a02b",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "1FBI",
+    "uuid": "f5a33d44083d4d6aa6194acda4ca2866",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "SamSwords",
+    "uuid": "a45bdc815e2a40b1880b66bf9c15b165",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "moonlandwasfake",
+    "uuid": "e5193b300deb419da09d17aced4f5c45",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "SrWhale",
+    "uuid": "1ea5a345969e4965bd1d583cdd8dc61c",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "CrazyMMG",
+    "uuid": "6ffae8348edf41078456cd958a2ed99e",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "sosiji660",
+    "uuid": "5ed56a76c312479e8b50f70ed3e63509",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "YeLeHey",
+    "uuid": "1e50e2849a0445c4be0e8b24fed7f7cf",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "orthographe",
+    "uuid": "27649dbd64fe4642b104e8652f35a3b1",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "Intrxder",
+    "uuid": "7ce8c313fe52492c98ae8031b291c450",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "Corneliani",
+    "uuid": "d298fce3dbc74baa9a03f8d6a27eb8fd",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "Master_K2",
+    "uuid": "e1fcbdd422da494989a84fb1f082b38c",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "Epicender",
+    "uuid": "2c2fedb1029b4264a25a1232531217b5",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "StoneCold334",
+    "uuid": "e92120179af944d88ca1644c4b758aa1",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "Jiminnn",
+    "uuid": "9ba2fa906fbc4c828672b9a35ed7cafc",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "LinkFace2016",
+    "uuid": "a9177360c9b7442a88c2b0d14e96a347",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "Busbyyy",
+    "uuid": "1f5fc91aec0d4aeba8b294d8768f443b",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "_DreamYouTube_",
+    "uuid": "9a73ce998cb847ccaf8d2519a25e08aa",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "PeepeePoopooCam",
+    "uuid": "1f9e2e0c11ff4fdcb47579d0a2e1a707",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "Idontqlk",
+    "uuid": "7b9eb455dbf04726842f7d7440b01fca",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "ILikeUranus",
+    "uuid": "9d9f48575f194763a1c46ac51a5a920e",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "epicsushiguy",
+    "uuid": "6df23a7a11e04aafad7395334d20ffe7",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "InstantNoodless",
+    "uuid": "e44340ed3cc040eaaac718c3b148870f",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "sigmasniper",
+    "uuid": "d0e3d79639ec460bbaca481a76a6134f",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "Not_VoidPiercer",
+    "uuid": "0a77ac7ee53f42349e910b399b2c13d1",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "Aerosie",
+    "uuid": "114a31131cb441ff94b1029eb38d6133",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "aaaBrooooo",
+    "uuid": "522251f33f8e4391a8b9f170b25454cb",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "kingarthurio",
+    "uuid": "18296ab323ab4923878f53c4ad487611",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "FinestBigBoy",
+    "uuid": "8c35ae821467469a932183bd195df7ae",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "morido2008",
+    "uuid": "5ac915e414c7429d8c60e9106933536e",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "uzlo",
+    "uuid": "f4d75e376f8e4141868736461830d5d7",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "EPICGAMER12",
+    "uuid": "2b5fb360610b454a83df30bd63cce26c",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "Scorch4",
+    "uuid": "59da7c560f0e4718b55e88664bab7f39",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "DreamDean7",
+    "uuid": "d02f9bb6595f472d866ae58a64bc4454",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "GialloPinguino",
+    "uuid": "168f8ae45ec442fbb0cf8bc4cf00a524",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "LeventeXD",
+    "uuid": "8ac0304017bc4492986cfc75b582d3ac",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "EarlyBow67351",
+    "uuid": "a013442d12b545beb6528f073396ddff",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "Thiin",
+    "uuid": "eb74bf544ac3495e826d25b263ac7b0c",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "Gy0u",
+    "uuid": "4f3c3a5201be44d9ba2d78d3662d943a",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "Unwind",
+    "uuid": "3b2e9de1cecf4e1299a6deee068f4e6c",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "heartel",
+    "uuid": "8a0fe826b23c4af6aac9855dcb8a6648",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "FriendlyIsaac",
+    "uuid": "0d9088aaf7304e2a8f11fc51b7ed2ea1",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "upward_momentum",
+    "uuid": "67ba296a66914db3b7ba8c0d54217533",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "SixPieces",
+    "uuid": "d79060dfc82a40e3b5849c6d782f6625",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "Small_Potatos",
+    "uuid": "f4b4ad8756774d53a1d6392971258f04",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "matwy",
+    "uuid": "25bbb93eff0548b59bb2d922367c8136",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "keod",
+    "uuid": "7bba114f937641e598c5c2c622380204",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "69te",
+    "uuid": "4f910e7a23684a1f9d9883d9fd9a313e",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "iSxckLol",
+    "uuid": "823f7cd9197546e1beedd64ae1758437",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "FSUISBACK509",
+    "uuid": "550a74ff43874f809e26af055af16616",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "Infxrno__",
+    "uuid": "e973a250ff5b4502b0e2c85150dab205",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "pladin",
+    "uuid": "863ae0c211c74193b4e9c356fff0bf9c",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "toxicitiy",
+    "uuid": "30e288890b434116997b7ebea90b72d1",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "txst_",
+    "uuid": "2acf85bcc38743b78fd501e9e9f6688f",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "BensBeans",
+    "uuid": "9957df391c454793a79c265f86447b27",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "HjHome",
+    "uuid": "d77f316dc3844341974672f6751c6e08",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "OSIRIPURI",
+    "uuid": "4e7d363bb1dc43e999100be7477d00a0",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "laval_egend",
+    "uuid": "b799176a67b7461ba5f23c8d26a1cd5e",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "oScav",
+    "uuid": "74da12da03024401907a5301ce8206b6",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "ResderGamer",
+    "uuid": "1d7bc909de4647ac80780625e0e43e24",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "BaldGeodude",
+    "uuid": "e237f02a65dd4a0398998b46e362e9c5",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "Eugene008",
+    "uuid": "7196feed849d4eda9671ae8cc3769a6a",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "GraceHeart800895",
+    "uuid": "c1f8d84f16be4ffba71bbc1d7171aab2",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "Razvan96",
+    "uuid": "602962a080f74ee9a0ada7cd2ec3dcb4",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "Ninjaloid10",
+    "uuid": "da9a4982bb324f7d8fc27aaa5db08404",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "CR7_RM",
+    "uuid": "c501c7662083468183ad8d2d4d9e1086",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "TheSkips",
+    "uuid": "70a53ce4f87147719803ec1680022d40",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "SevenSpacey",
+    "uuid": "4455b2fe77784cf4af99443b9c303230",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "FnWD",
+    "uuid": "dbcba859581c44e9a4a30003e4a35f6d",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "potogoro",
+    "uuid": "ca5c9033aa7d4c428c6382d0822c705d",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "eelijaiivo",
+    "uuid": "fa5cd23c34764762b941ad69d59acd09",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "PugProductions",
+    "uuid": "4a01429b0dc148a48ef6079adc90bfd8",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "homerun114004827",
+    "uuid": "5239f6049f50448cb1cf489165538209",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "his_rice",
+    "uuid": "cdd13ebbfa984d1eb433093535b18a1a",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "Nico2021Aysen",
+    "uuid": "583dcf6f6cef4433843ee5fd08e24c89",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "GameFig",
+    "uuid": "59474f95512341d89702541e3b338718",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "FactionsDill",
+    "uuid": "036c058edbf24a688049b1ea85e52b47",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "YourNotFunny",
+    "uuid": "9fe1871673d5438ca51b81e8bd63029d",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "Bushey",
+    "uuid": "edc682ea99db4e4abdfb415ebe3de9c8",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "BigSonicMiner",
+    "uuid": "dcecfc92723146e1acd7ab6f004b7f43",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "ollieboi222",
+    "uuid": "4f25fe958b734d0f884be2eab560576d",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "Sus_Bear46",
+    "uuid": "8ab678fc2adc438e8bb5f66aceeca1b4",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "askaraaaxd",
+    "uuid": "a5c89e47bcea43e883fd0c369535f6ee",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "amphorus7",
+    "uuid": "30b0e507e36246d585bd7e81065557b4",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "_SlayZe_",
+    "uuid": "4f31083022564c72b9f151d10e7a5e3b",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "c9te",
+    "uuid": "cc6c19da919249e2b321a334a4455c37",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "Varf",
+    "uuid": "50cfc06fa11344a5919926ea69b00179",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "CaringChicken",
+    "uuid": "2f72508e6e66486781038851cc9ee73d",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "BoCzoo",
+    "uuid": "266501c9cdd6450783572986f06dcd15",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "EpicGamerSavage",
+    "uuid": "bb052323c0d7423fb687189febfb42aa",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "IRCop",
+    "uuid": "cadb4396ea61475c9a485903f0822bea",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "itsthebeanguys",
+    "uuid": "2a4d7864d1f64d63a95758d31862cc70",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "Aphrodite_Chan",
+    "uuid": "e8109199f3ca41f6a5936bca17d266aa",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "HumaMan",
+    "uuid": "8d0f41904d6b42769e7b0cd75bf9cf5d",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "Tomas_Gammer",
+    "uuid": "d93c949fe8744d9998f907d1eea7514b",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "telltale6000",
+    "uuid": "68e181782604454cb896e5337c5e0fb5",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "Bobjenz65",
+    "uuid": "6252b37179474bd7ab9b633ddfe864ff",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "CatEGirly",
+    "uuid": "22e30d93958e4673bcfd7b71a581f883",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "Actura",
+    "uuid": "66b1606270584ec889b4f904f6652495",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "AriLops",
+    "uuid": "6eafb30e567446cea26b4effa47bcff2",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "Rindanna2010",
+    "uuid": "4fdfe1c28a004f2d9127a323261d9d23",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "rarapvp",
+    "uuid": "a453e65e48ba41af8edb3b8bae1fac43",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "imstcat",
+    "uuid": "46e810462404467480a27b70620c8f17",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "cheeklover69",
+    "uuid": "b7161f063ac1494db7ffec78b5182f1a",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "Dr_Donelli",
+    "uuid": "4ae4c47b53084d21932ef28a28609369",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "GIizzySm0ke",
+    "uuid": "05305122851d4042a87b3df5913bf7dc",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "awtler",
+    "uuid": "c72e4b9f95cd4fcebc000467273ca5cd",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "oEastside",
+    "uuid": "6d5e02986cbe480a9fd21591c8ac17b7",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "vinff",
+    "uuid": "6a1612ac991849adb1a9bd4e3c0fcacb",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "ooseal",
+    "uuid": "ebb8327a1f594f8d8b58f7316c403113",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "PortalHu",
+    "uuid": "4bb1f8c5054a4cc1ab01fbc36187dd97",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "Ykyigit01",
+    "uuid": "8021002ca8724daf8a2b6d88a74b450e",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "Riyoung",
+    "uuid": "22d8e7bd04f24e019bb9c3eb9f2224a7",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "St4r_43",
+    "uuid": "f4f0d9a433624e65a83cd156879e10e1",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "aymonkey",
+    "uuid": "6457134aad904d859e3f059830c27823",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "Your_Buddy_Jay",
+    "uuid": "fac49d82af1c440cb2b607dad3a410d0",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "yoyomo1000",
+    "uuid": "53d314dfdbcb4c678b3f87482bc25d5a",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "Gastura__",
+    "uuid": "4203f116c316422ab0cc196aa70960d2",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "ClownOwns",
+    "uuid": "8699e6caca4d4a3199032907d8f1368c",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "akrespin",
+    "uuid": "bc26be35c04c4096a480da69e36c9f1b",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "MBSNUMBER1FAN",
+    "uuid": "706d5a7776094587a41c53ea6f7ded47",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "JuanUz_89",
+    "uuid": "23f8fddbc9754dda87f75924a5c865c9",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "theydontloveit",
+    "uuid": "4ed7c7dcf09d4fc6a50fc730519aa1ab",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "Damik_09",
+    "uuid": "6af2830098424dd888ddcd4b8eea3f77",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "RedKelp",
+    "uuid": "813fda7e71054bbda3df82b299774580",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "TooMuchSkywars",
+    "uuid": "a713340addaf42f4a37c4ac8651dc688",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "Godziny",
+    "uuid": "f1b9797204ca485792449b539505082c",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "BuildHoe",
+    "uuid": "b821e97b9e964157a7b8c4c3cf563adf",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "Textes",
+    "uuid": "ffb999cac0734b44b7861768533058f1",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "RampagedRhino",
+    "uuid": "932d0242f39546f6bf218aee0bda2674",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "sleepycar",
+    "uuid": "8a4e6c67e6194283a68dad2298ad47de",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "RoyalBrick08219",
+    "uuid": "c12a09711c8e43fe9b002b8f03ebde3f",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "KATIEsUNRISE7521",
+    "uuid": "debe2d32173c411fb551a1b840e499d2",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "ObsidianSilas",
+    "uuid": "84c99c23c5184910a2a0c5fb2a1fc9d3",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "Bagfalov2",
+    "uuid": "800d267805d24fc28bc89edb88953995",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "AwesomeMan127",
+    "uuid": "04e228d2d8b148f09b85eda163e9b9c6",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "_iamthedoc_",
+    "uuid": "ba20198ad961479d864c23d509c1f989",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "YeahIlikeToFart",
+    "uuid": "90093e5dc18f47799d86e47dd817a5dc",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "wayzal",
+    "uuid": "27143cf438aa42efbebfa398abf4a3eb",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "Simply__Skileur",
+    "uuid": "c01b49c07e8b453684457eec05cf3d9e",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "BananaDV",
+    "uuid": "ca224bb1922c4eeca0babaf7438d9837",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "heyhugo13",
+    "uuid": "8408d728c01441fdbe07d4181a16d869",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "SmellyDiahreah",
+    "uuid": "39597ce791a2495d9c41b1768175a5c1",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "OvoEstrelado",
+    "uuid": "d325cefc44e847c794c9abe008bea7b1",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "4pffaisal",
+    "uuid": "fb5c1fb73ed842c4a39142cbd9a930d7",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "lfpmrl",
+    "uuid": "18a957d43b5a4c888c24bb49197e4a66",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "doubixz",
+    "uuid": "56ee7944997b444497ef632ecae5e46c",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "_PauliniX_",
+    "uuid": "7b129a6e67ac4effb369d36f1f1edfe8",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "Vujek",
+    "uuid": "37c24266afd6404584b2799a0c55ac4c",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "antxp",
+    "uuid": "78fbc6aa19c54d2e91d7e83a165b8a0a",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "Scynette",
+    "uuid": "6fce402096a24077b3233329bb722f4b",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "SCP_6_2_8",
+    "uuid": "9e933bc6e42a43418ab35d4ad91347c7",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "HunterSeaTurtle",
+    "uuid": "b0c6e8b9da424ffeb7ab0953cb87fdaa",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "SunnahWay",
+    "uuid": "becc4abbbd4746a58fa550cfdfa2e67c",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "Bup64",
+    "uuid": "2f8c997d29ff4d989c870c9ad52cf284",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "beamer99",
+    "uuid": "d4ad0f6876234ef6b235080914c2c2ca",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "xanahny",
+    "uuid": "85197673ab5c4fb6ac33e08ff8d096c5",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "Reflex_curry",
+    "uuid": "eb9829be22b5438c82e68b5c08170b86",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "WalnutGecko",
+    "uuid": "56afdaf43d7f4c85885333e828eef5bc",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "Frvghtxn",
+    "uuid": "af5f84ca919247f0b2122fb464981d9f",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "moocow39",
+    "uuid": "54162b1606ea4c95af827a360353fefe",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "_nons",
+    "uuid": "094370a8ac4e41f1b46f1f12030f334c",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "vigilous",
+    "uuid": "ee52d825efbb41dab50e7e98ad41e7b7",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "localugly",
+    "uuid": "da1e739f944e45dfa799094656deed9b",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "BigBoiPhishy",
+    "uuid": "ab272af23fc74915854a9f769fd4b178",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "JohnTheRock",
+    "uuid": "a501b9e9758e493081cec484bfb4c935",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "Flunemer",
+    "uuid": "8345bc948318436ea02ed50225a80080",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "Daylight27",
+    "uuid": "12f15c28570c448190b0de019cff7eaa",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "BeaverMon",
+    "uuid": "dd95b8821dcc4b8ab427c7c080df2dd8",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "Raytaco",
+    "uuid": "a56142a75ae54c8fbf57763516ba17c7",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "Xiphoid_67",
+    "uuid": "544a1b1f128e45ff8561d92101b6bc13",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "Csnacc",
+    "uuid": "898531efcc644a5ba440c46da50ac8b0",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "handsbusy",
+    "uuid": "085e216fc165489d888c867c7216efe9",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "Coolguy5931",
+    "uuid": "c6bdf942e67441cbb7e77e4b1e203e0b",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "Kszacze",
+    "uuid": "050301132b7b40b89708465d5b29ee66",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "Elementary_",
+    "uuid": "b94c25a068c74da7a734ac425711c222",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "lynn_12",
+    "uuid": "cdab5cca67fb4439822862345a7a9b08",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "eae2310",
+    "uuid": "882c9149104c4749b88d5dcd8cc6d029",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "tatoch1pzzz",
+    "uuid": "c52792b4e0d448f7b483100190821461",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "Turt_Williamson",
+    "uuid": "1716dd1b117643c6962e5cad992466c3",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "iiloan_21",
+    "uuid": "295758a886dd4ac0bca62a0a1dc2d556",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "Tuex",
+    "uuid": "bd80b7128291484787c6bfb1796e44b9",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "predactic",
+    "uuid": "e609d2f60c0949b4a1c219045939535a",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "Samochod",
+    "uuid": "5fbd7ea85b0b47eeb9d7b0c836d4e7d7",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "whos_tezz",
+    "uuid": "249503fdd2fc4c1f97ac7aba521ddd71",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "Cypherer",
+    "uuid": "97a20a1e214c42c2a10068ec6dee3bc1",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "alidius",
+    "uuid": "78728dca79544fbaa6ca06d4b4e8ea57",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "KanaPola",
+    "uuid": "e89e21794e2b47948ad2aaffb669dbeb",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "WuYes",
+    "uuid": "b308db855edd4466af7241f70b181451",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "PercyJacksone",
+    "uuid": "5c316d6353de44d4b2b923d03951299f",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "Cauadkkj",
+    "uuid": "3e9267071a6d4b4395fc27276de7f474",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "lewis444",
+    "uuid": "ec10c714ad234b02a133c3fea2963f77",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "FemboyAenderUwU",
+    "uuid": "5f4fd11c743f49698cbc0713a9f910fe",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "j5k_",
+    "uuid": "1a536d25d0734a82a54d9f4086085020",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "LegitAdmin",
+    "uuid": "2e729d2bfab64cd79919e9e80c058e17",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "Peculate",
+    "uuid": "d7198a24fba84f92a061757d967ecb1d",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "tabbytrumpet",
+    "uuid": "8fa41c70545b466fbc920313b4b3f60d",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "antfarm12",
+    "uuid": "d3e3cde2c9c4402c90bcadb4a527e03f",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "MrTeapot03",
+    "uuid": "c8130291be574bd08fa16c91b225b9e7",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "Flaretic",
+    "uuid": "f6ea24493d8148ce92e2c1cce32fa61d",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "MessyThoughts",
+    "uuid": "a1e5de09ce6b47ac8cb0c96bebf07268",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "elgrandepd",
+    "uuid": "a787235c081b4eb992f2f61f2fb3769d",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "Xbomb",
+    "uuid": "4c813b8f6acb4064b46d258d63d13c48",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "Ashura_x",
+    "uuid": "0b469b0afe7b44eaae5ef558746ab834",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "DarknessVillian",
+    "uuid": "7820cd1bafa149e5b1b681318af2ba84",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "Mythical765",
+    "uuid": "2cf14db5c1f9400d9464b6030ba2433e",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "Splatoonfan11",
+    "uuid": "d8358b66249f477988111a2242a0fd44",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "FireRoz",
+    "uuid": "acf2de0a1d6d4ef2a10e44efb44638f9",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "Robotox",
+    "uuid": "d0a73e9a45e44c9b95833981f4330d1c",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "SamsungOven1",
+    "uuid": "9c72c1ff4c024349bddaa8e951c082b4",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "bloominqs",
+    "uuid": "592fdd4477f44966a072f454a6e2c1f1",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "UHH158",
+    "uuid": "73e4ea61814c47dcbeb106ed8ecdcdbb",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "CaliyTheCalico",
+    "uuid": "e94803911df04ef5b5d4784377fc5676",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "MetalGearOtaku",
+    "uuid": "e8f3431615a441679a647d33cd31f78e",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "octxgon",
+    "uuid": "6cdf77c0f4b242139ef9a8971a6259e0",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "cuber6",
+    "uuid": "16691f3ee192471baa1528bc54b7b9dd",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "PenguinNinja82",
+    "uuid": "5f8ce343105f4d9e8159e2822ced582c",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "3edr",
+    "uuid": "29e787e7a1e44f12af84992d0ab38aad",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "LiterallyTheGoat",
+    "uuid": "eca090cc02e042559004479e3615194e",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "tufydark_34",
+    "uuid": "55a34ee636964636b118afc82e34789f",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "The99thTitan",
+    "uuid": "74242c0f09d445b383050fae3f93ef15",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "SlashTheGreatXD",
+    "uuid": "ca5afe6616c64b0c94a2ef62a50005b6",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "blackmanrun",
+    "uuid": "78c5492d5a1549d6855f088a8e86979d",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "YanoThat",
+    "uuid": "be8f726cdaf344daac7f73389d40664c",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "Astroboi",
+    "uuid": "d83b87134dff465f92e82af5f5f355b1",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "Memelaz5985",
+    "uuid": "224e800805014c088cf03c0a676f69ff",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "ihrv",
+    "uuid": "2fe1df1867d942a2ada8bab6ed430ca4",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "Rileyman987",
+    "uuid": "d85a397e58bf4a85ae3c7170eaf9767a",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "ChangeDoor9076",
+    "uuid": "406505f88eee43ebab6240266d69414b",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "Diddle",
+    "uuid": "94ea4fca385846198d97adf0856901a2",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "DIDDILE",
+    "uuid": "9f6b2cb26b1647cda448e4d5dddb8248",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "tectite",
+    "uuid": "81193bdbc2fa41509f8196aacfb46b72",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "Argathena",
+    "uuid": "92af4efd280045f3a0cf1b087bfaddda",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "WhiteTiger17253",
+    "uuid": "dd50999f1c2b4e739116959a8fbcddac",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "HerobrineAFK",
+    "uuid": "b4c16eed1bf4471ca54768797b835a6f",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "MCBuilder70",
+    "uuid": "bb680874948a4de1b4c5182a69bf953f",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "SPOOOOON101",
+    "uuid": "23b89221b1f24114a756457c3024db57",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "InGame42",
+    "uuid": "e478f80dcfbd464690eb381f5413c54e",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "Chillionare",
+    "uuid": "0f40ee708d7f40cb9ed99ac1c0aee501",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "Anunnammedcell",
+    "uuid": "3df7bff7f3bb46b68d596d8d1b3c39a7",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "indyboo",
+    "uuid": "ce3a7b7cd2554e7b8db2e23e5c070faf",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "Chaz1001",
+    "uuid": "f1098f4ae0a949e39d0510f7e0f22446",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "xDarkTowerx",
+    "uuid": "40bc284ed562494fa80e2d21bbe17343",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "RaffeNoob",
+    "uuid": "10862e5212ba4fc983e3f239315341e9",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "ArdiPezSubnormal",
+    "uuid": "b7536c117bbf4d95817b64fd62e706b3",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "Adamku",
+    "uuid": "11564490eed048709c9f3450423f4b06",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "NegusFart",
+    "uuid": "954a2a15effe4be3a84e83dc179e1a53",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "Kellsj20",
+    "uuid": "6a853251cc254adfbd175af3ab81ef99",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "TheGeneralCow",
+    "uuid": "04ec0b0a39f84a18bede0aa8e478fa93",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "knuggel",
+    "uuid": "3eff0efa57b34ffe93c8a155671a1816",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "vvaterbottles",
+    "uuid": "d73c07f98d234cfaadf9907b04792e2e",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "Muharq",
+    "uuid": "e18f51d8dbb94fb3b83606b7a0e7b5a6",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "Piggynajfl",
+    "uuid": "ab8cc38b7aa2489baa2929b34194a647",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "Epicplayer6482",
+    "uuid": "b0fea34cbed04849baaaa24c286303ec",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "ghsets",
+    "uuid": "f3d1648f172c43138300f128712a8d86",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "spz12",
+    "uuid": "e93a8df218c14cfc8219f9d3d2285491",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "Spacegamer20",
+    "uuid": "efe6ca116cb4459ea511a330103b86e4",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "TheRedCryztal",
+    "uuid": "e75a3ea06111461285c0b319f042c9a9",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "JaxCraftB",
+    "uuid": "ad7a82ea83284882a14b296e8cfd1b69",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "johnmann8",
+    "uuid": "75e47e581dd74376bc2629afaba506b5",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "notDylanMC",
+    "uuid": "1fdbf156ea4943c8bcbd4679091a7306",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "Mustafa24",
+    "uuid": "ab5e33516ab04add92f9f980a26dec9d",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "Qwt",
+    "uuid": "598f9bae0f92419886cdc2ba43396ecd",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "Fuller255",
+    "uuid": "087e26fd2fdf478a807de71eb61b4fa2",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "sadel",
+    "uuid": "4f08a65093a74931ad760fb98f75b95f",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "UnlistedEevee",
+    "uuid": "e40892e4b62142eea91d5526d5f62c9d",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "Operationknas",
+    "uuid": "bd9a67e49338420d821a1a76e5bf7001",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "dogeman333",
+    "uuid": "25f2fe353059434884d04c24ce46a66d",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "LogDotZipWolf",
+    "uuid": "873ac7734db54c1eb3539d1d9ba3d206",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "ThaDani2000cS",
+    "uuid": "58c23e474d53417893b780c6214d2f86",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "StoatWhoFloats",
+    "uuid": "35b5c8f5875b4e5188ac4832d05700d0",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "Wyrmgarden",
+    "uuid": "dffe0d14195a42b484de156339643fbf",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "minjae020418",
+    "uuid": "bf22ce4e7e2a459ea4bd4d3750704381",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "Digital_MacGyver",
+    "uuid": "979704930591472ba821dce1bb8c09de",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "SplitzFitz",
+    "uuid": "ea46c8d9decf4bf2be3f495c2a7388bc",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "glasspane_",
+    "uuid": "2e0e556998e9422698c0bf0a13b723d0",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "imNightMode",
+    "uuid": "a01515f011c748ffa4ebc856b175032c",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "rodwaveishuge",
+    "uuid": "c7eae5bb7bdd4fbe94d8259d96fc9003",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "TurboDoodle",
+    "uuid": "f6984a79c8464151b8be120cea99ad97",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "CaverJack",
+    "uuid": "40d0ccdd6776400f99c90fdd83c4e4c7",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "tickler9890",
+    "uuid": "1cda20827ace4963adf9efef7a197ef0",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "Sphn",
+    "uuid": "a4c481d4f9fd489eba223c291f609cc7",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "_Tkfka",
+    "uuid": "d7937867a15640aa9be3bca2c126c01e",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "OneVoteMulpr",
+    "uuid": "533b22f7da074c158727913399743cf2",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "FloolpHasSpoken",
+    "uuid": "fe00ca9bf7534c79bedd8044e80e7d1d",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "shumbers",
+    "uuid": "7278d50ff8d94cc6ac1ab5a09a4a445e",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "Teckit",
+    "uuid": "9ef04388231f42848dde6784fac5afef",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "lanarainbows",
+    "uuid": "443355707140481fbca2e7912597837f",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "Creator_66",
+    "uuid": "8ad2dba7c8634cdd92ef2870c6973a9a",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "Myst1qal",
+    "uuid": "420bfeaea37a43f79b1b653140f1a173",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "jj1462",
+    "uuid": "0aef7439882e42ffa77111bd815fee78",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "Waffle4754",
+    "uuid": "4b88b9996ec347f0a35edb61addd09a0",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "Marki__",
+    "uuid": "e0a74044db6b440e89b7570cac7d1f18",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "Dranfey",
+    "uuid": "90eecc99b008495cb72a0bc38cd6e895",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "NullBlock",
+    "uuid": "a7ab67fe5a244cd296f8caf98717b8aa",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "Zacsterswag",
+    "uuid": "39aedb7a592d43249b97d04fa09f6a18",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "lowdie",
+    "uuid": "c27fe36f097d4bdb84164a7b0808102d",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "TataShleemanTone",
+    "uuid": "fa43a600a09b4045b310d855f4ba0af7",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "oOceanic",
+    "uuid": "2c8b391e08c5413b8ad50a3a030c52e0",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "Bogatir",
+    "uuid": "59174e222dc240cc9357a35eb909d0ec",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "needparty",
+    "uuid": "7fd358acebb441358559740ab911b204",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "woodrose",
+    "uuid": "2c0d284f7f6a432dbcfdd079e7406903",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "NateJack7k",
+    "uuid": "ca18be75907d47c09be03874459caac1",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "Compliqtions",
+    "uuid": "2fda24a5ad274dcd8c2e5d4ae94fbe21",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "BowserBoy13",
+    "uuid": "2b11ec8c0ec846b8a6e69bb3a4480173",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "AnexDK",
+    "uuid": "0f416a352c89444f80e2840f2ad37280",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "JakeSnail",
+    "uuid": "4eb2525562144deca5b026d57d556dac",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "ifingerscuri23",
+    "uuid": "682c6327d83142c1aa7ccf944d7a8fa8",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "Advanced_Berti",
+    "uuid": "3443a778c1564001a426844a27a2b76a",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "CuidadGris",
+    "uuid": "73f495cd291344198a6eb33e4bf119ef",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "Ilikekids93",
+    "uuid": "0fc04e2c154b4d529a641ed8eba3e173",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "dueldriller",
+    "uuid": "07f4f1d8798e4f799e71bedd86e86004",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "EggyBreadXD",
+    "uuid": "16bd80826c8d4b6694c36891f8ad955e",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "CoopsJLighyear",
+    "uuid": "393583dcf69141d0bb205138465e99e7",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "Lukeskywalkerrr",
+    "uuid": "935d4c19663d425f96b683e3958fbf21",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "Amrs",
+    "uuid": "89d4f2ba75f44d3fa709ba50ca9538f7",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "cringebum",
+    "uuid": "25b55ea3089d43d29be7173967f9c3b7",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "BlindingLightsXO",
+    "uuid": "c04d8faff82c4d859205d33bb317184d",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "bervard",
+    "uuid": "530ecbb5e7644243b0374c9699b5fe6d",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "erZd",
+    "uuid": "7634c4204e184f0eb5df67ac9007dfc5",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "FireZD",
+    "uuid": "806651140a7d4fd5a200c745aa02c300",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "PRSN",
+    "uuid": "0b37704413f64cf2a6785acd53889e6a",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "Glorious_Purpose",
+    "uuid": "ae2c615b201f4a6f88682cf597ddc57a",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "Tinker_R",
+    "uuid": "373dd9b7d28b44bb9c86f241acf86281",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "Butterbro",
+    "uuid": "d239691635164fc1b09deefa2876bb72",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "Miyamoto_Musashi",
+    "uuid": "10a04c42d7f049b68475e12de5b85063",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "Valthorr",
+    "uuid": "d5cc0cde23ad4219a40258787944cf52",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "Hilderos",
+    "uuid": "f599c66d23f344ebbc96410a6f96a03a",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "SonicDog",
+    "uuid": "706d48be88354867b8b0c07431afd990",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "Hondas",
+    "uuid": "aa1d1bcdacd047908841cbaf71d05aff",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "spelare",
+    "uuid": "42335106e9ec4dca80f228da7c92f17f",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "MinecraftAI",
+    "uuid": "b1c5edec7aa14655b45421dc96703267",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "BetHead3D",
+    "uuid": "71bf1c6250594fdb940f3e9a72809d94",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "Capuke109",
+    "uuid": "fd93ad6d234a4d918b1e0bdc55d0f917",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "Vpoid",
+    "uuid": "a3a69f3330f542859c041f3a5d7e2187",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "Kanahebi_",
+    "uuid": "cdae9f310d41496db4f8d11709bd6b42",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "p3qrled_",
+    "uuid": "9a36d8788c2442328135ac9ca019d98c",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "tesszm",
+    "uuid": "68aae066f63346d8bdfd9affe1c16769",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "skilldidntcallme",
+    "uuid": "1a295a8424ad47c6ae9cdab1fd23c982",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "Buzau_",
+    "uuid": "e9c31f6d3137404192eb4c914d6fc517",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "ItzCubozoa",
+    "uuid": "384c0c161f05486bb65f1940cf54b73c",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "MerelyMicah",
+    "uuid": "a4d555bafd3f4f1e9f54bbfd85b355a7",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "ObamaSheepGandhi",
+    "uuid": "c7cb977788074b66a777b452cec84462",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "BE3T",
+    "uuid": "5da8e3bb05b54333bd6282ef5b45b3e7",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "Cyygy",
+    "uuid": "dee9f93d750c40dfa35f48cb20f40af0",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "MADEgg1738",
+    "uuid": "a646d6888b45418c87e9fda2fac984e5",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "FazeSussyMonkey",
+    "uuid": "875571cec7d0477d8f584ad8b31f5ef8",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "__Alex",
+    "uuid": "6016338101674b8abf379b6333a006a8",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "Elon_Musk___",
+    "uuid": "e7e60e4f62c34aaa9104c4d02f7cad7e",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "Glamoh",
+    "uuid": "f7d3be875b2a425cad214156ac851fb9",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "irondiamond595",
+    "uuid": "78996bb550a747b596d918843f3fc007",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "The_Limiter",
+    "uuid": "84e0008fb57e4050804d5fe3674ed8fa",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "Katyusha1977",
+    "uuid": "0cf99c36e1fc4e779c3681852265c7d0",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "SimonPegg",
+    "uuid": "9a47cfe86b304be280fde9e25ca28b84",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "cqto",
+    "uuid": "f2696640f804429fbeb4b95e728dcb00",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "moonchaserr",
+    "uuid": "a625c2db1886489ca4db12a6b86111ce",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "Gary46",
+    "uuid": "545233d571f04fc285359a99524d7dba",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "noob64",
+    "uuid": "f9c316950328423ba1e69430e330ba5e",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "IAP810",
+    "uuid": "c553a29142044e92befbd948eb855fd0",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "WASN0T",
+    "uuid": "56f2da1d06154b4bbd177debc3e657c2",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "GRH101010",
+    "uuid": "af8cf2dffa2347eba9ec02594133e67f",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "Own4ge",
+    "uuid": "f82fd9c25e874dd397df79a782296895",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "Knattekalle82",
+    "uuid": "f68401cba54244fa82dff835192466cc",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "charliebweenz",
+    "uuid": "e2cd401df7ae4c4b8cb53d95409196ac",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "Klaf",
+    "uuid": "c2314a7491bd4e5bb9e36e767dbee51a",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "lonewy",
+    "uuid": "13d486ff7b04492099139d2eb4c0dbe5",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "NoCoz08",
+    "uuid": "7e8cb5f5e7964cf4b30c1c310e6203ec",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "Mohcha",
+    "uuid": "f962ecc708d648b4850935c7ebf14d39",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "icemaster9508",
+    "uuid": "1d8dab3893a14854a2abe8134a22f83e",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "KatieSunrise7541",
+    "uuid": "8dd208c744a944c2a7e8096da7358b26",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "PVP_pig123",
+    "uuid": "61f6a6c2fd5e46bb8483da4bb91444bd",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "H3xer",
+    "uuid": "701a854da2cc4396bb93b3a9834ffc20",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "Blizzington",
+    "uuid": "04efffa5a4724519ab8bebe21d9fd60e",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "WhysoSirius101",
+    "uuid": "580267745f0b4466ad3cc13b8fc6298d",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "RedstoneReactor9",
+    "uuid": "0547121a4c9743deb0daf5d36a76fa8c",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "TheDarkLord7356",
+    "uuid": "b0ff10641edb45bc82cef9d9047db729",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "ThunderZapp",
+    "uuid": "d13899de53b4410aaa8f26eb1ffea7f0",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "tte0",
+    "uuid": "33abfba3a7b840659563cbea8485e69c",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "BMW_316",
+    "uuid": "531de14508344f47846846da11e29044",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "Odieguin21",
+    "uuid": "2097d4f6b96744b694a86192434977cc",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "JKof_",
+    "uuid": "ce80337435de412098169e25e9bce25e",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "fish80",
+    "uuid": "5537c527347d4d55bd18b10b65b1b8b5",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "EPICGAMER135840",
+    "uuid": "edcfb47507d94787876ba9c1072d47d6",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "YouNeed1thing",
+    "uuid": "72c54f5de3cf4fe1bfd76c13a642d817",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "TheNewGuy7204",
+    "uuid": "f80554e8526249648117c4a15c594905",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "kkn",
+    "uuid": "420fc963e67d4221a6a3a4d7a7372ebf",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "Gio02",
+    "uuid": "8ce72f3a3d514d8a9d551c385c18ed74",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "Dawsondude15",
+    "uuid": "1e057f799ed149a2b98819df9d051087",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "BigGrayDog",
+    "uuid": "f3ccdb63bb4a46cbad3e2d637e1924d0",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "player_1234567",
+    "uuid": "60c60bda9f2f4bfa83b1c4500d428ece",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "j4xyz",
+    "uuid": "d9dee0a3c8af45c0a7314a21080c5772",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "Nickerr",
+    "uuid": "3373d73e770048b29c9c24f19e81fe82",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "stoepit123",
+    "uuid": "f45d872b44864e1e86835a6bf95dee77",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "Motocykl",
+    "uuid": "0e01dd232f8f4e01b9cf1dd463b75d32",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "MartynMD",
+    "uuid": "869ca45b2aaf473fadd194b8e0449c4d",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "DaddyTrey",
+    "uuid": "094203c2b19443a6a60bbaf174d0e4dc",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "Great_Crafter",
+    "uuid": "2b60a9cc0b9949adadd134cdc86a398a",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "shark_5ping",
+    "uuid": "d2fd341a87214257b7d98f7d123ed97d",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "_Eiko",
+    "uuid": "ff4dd60329584ca3bb4279bfc82520e7",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "G0PSS",
+    "uuid": "5a7ebecf2ef74c88b25d7ba91ecd777a",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "Logalex",
+    "uuid": "df36f05c65c94a4f95acdc7e9b5bb6f3",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "eStepSis",
+    "uuid": "1628938c10ab4714bab5a05f17c325a9",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "Dominik000",
+    "uuid": "7fe98296e7f44d599902b2aefb159094",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "BoxxerBott",
+    "uuid": "bd5b39ae759448bd8e0e3434ec17d56c",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "herny23454",
+    "uuid": "158c9cf6dc554bef93643e69e4a5cbcb",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "V1cTxrPlayz",
+    "uuid": "192033414f8348febedf5eca4de84e44",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "Roaringchocolate",
+    "uuid": "2cb95a3b62c8495f9a25bdff3202c068",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "_0981",
+    "uuid": "4a208aefc72d4520af34193cad5a9736",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "Bytmrw",
+    "uuid": "80274c90028945768519fee160c484d2",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "NikoNiko_Marpon",
+    "uuid": "387d68ea6ca141a3ada8d65e5777d1bc",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "meaniepants",
+    "uuid": "d9c7b12c08e646ad805e1270f7ce27ef",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "Dawiis",
+    "uuid": "a4bb3c303b0f49f5a8658e94b2a7c49f",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "arileypate",
+    "uuid": "cde358a36785480d97578305fa80dca2",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "JJMR",
+    "uuid": "d8cd46d259b54f909566c835eb0c4add",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "NvSimple",
+    "uuid": "e1bf33d952e847f584cc95799b5dcd55",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "burnt_toast__",
+    "uuid": "165f7a49d53146d5a47d05ac78dbae1d",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "YalcGreen",
+    "uuid": "2e29a83a732e43fabce1cf1b923eddfd",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "LV_INF",
+    "uuid": "7fec5fe0d33a4ce6b51f1df38828a3ea",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "SubsumingVortex",
+    "uuid": "074d3252c35f4ece8c89e11e3ff3b3ec",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "Exity",
+    "uuid": "697ce7ebf409472da0ae71c5a20065c4",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "Mr_Kayra",
+    "uuid": "834664b0106540b3bb7f8dafe6afaa1c",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "Korello",
+    "uuid": "ff6a8889ab134888baa592b7294e1273",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "Axsy",
+    "uuid": "bf0ceaf8890d43f3843256b4cd002bee",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "Flash_Juan",
+    "uuid": "8d5cbee7fed047acb0e3307f3f0adc29",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "Quarter",
+    "uuid": "ae59e0be2b544288af27ccbaa6d94a4f",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "Magic_Destroyer8",
+    "uuid": "d781c44688a640e3aa42556d17570676",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "Metukkaa",
+    "uuid": "7e85e86add42464d992f0864b29b2ba0",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "trsqn",
+    "uuid": "bd61a765b4744c42864a8787de5b8630",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "RUDYISTHEBEST",
+    "uuid": "99c7b5bbd08e4f0d84e448e088a03ac2",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "clayteapot",
+    "uuid": "4b93ca8952594388b2114ef4b117fa98",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "Alex__ig",
+    "uuid": "375a54b7d9b94284acfba5a618ab1081",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "drkk0",
+    "uuid": "dd5c78f05a63438a8f62d3183695830d",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "CuddleWuggles",
+    "uuid": "00d48383ba6e4875be6f154ae428d1e9",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "hackprocraft",
+    "uuid": "411e5410f9504c72b381638f5e8dd306",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "leoonni",
+    "uuid": "2f3f87b1955f4fa49b403b730065b989",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "beabadoobeesbf",
+    "uuid": "9e2dc316c55d459a8cbed2d2f61f5a3e",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "TheLetterMm",
+    "uuid": "2e48be22ce454d41980be69c4ca848e2",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "GregoryPual",
+    "uuid": "c348fd1456e14bcaa09ffa99a16035a9",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "zaged",
+    "uuid": "3e71d58c1c5546bf9a929282f657ace9",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "Gundone_",
+    "uuid": "dcaf31a15ffa4e419ab1910743f71701",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "u44",
+    "uuid": "320510293411425685d38fea3ac130bd",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "wqddle",
+    "uuid": "f2e562efcb7241f9bf978546dd4ec75c",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "Minkrim",
+    "uuid": "676a9e69a46046ef86d63396ce520138",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "DONKEY_MAN",
+    "uuid": "eea34b65e82540358c54b884a04a0e9e",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "Doggc",
+    "uuid": "1501bc793188442bb92424974c59fc5e",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "Staarduster",
+    "uuid": "0caab2242c1d46289d01a976f87c3dbb",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "Pablo43_NS",
+    "uuid": "1d496d6ce0e446e0aaa3b1e8a79be3ec",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "2MuchGoat",
+    "uuid": "2c1ee0fb77554d79a46d49a5a52aec11",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "HappyChappy3213",
+    "uuid": "986053635ce54c0daeecd424d08eff37",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "lateeagle",
+    "uuid": "4d3c888c7a734b53a4c863cb707aeba4",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "LunarClientDev",
+    "uuid": "8a6349a54fc043a0b71d7130361a5008",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "passcodes",
+    "uuid": "081578f280fd43698217b2f4842cf5c2",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "SnnxgonTwitch",
+    "uuid": "9e36e532d6ec4dc6b61e125dd4938a6f",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "_Fladab_",
+    "uuid": "61751bb2b6bd49da931570c5bc6094a2",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "Dryyyyyyyy",
+    "uuid": "5e5cc8ad11ff40b994b6b99b86d68b68",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "Make_Cake",
+    "uuid": "76aa742efb2d42fe8d93d29c2fff3ad2",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "szymu_gg",
+    "uuid": "77c557fc911245518367dfca2488d07c",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "sunsi0",
+    "uuid": "c2595ce74fcc494291d55f2f98235748",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "iwi5",
+    "uuid": "2c5aa79e67754649826cc223a4e900ac",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "Aaquaaa",
+    "uuid": "a5229b27c9994599ae8e484770e80564",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "69_109_231_183",
+    "uuid": "43552211deff4c7a85d03847e30be587",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "otaku_50",
+    "uuid": "32c237cd671f40f7a06e66e5d2901abd",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "eazbero",
+    "uuid": "2f7b086e02f54021952a7c112d2387c7",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "BG_Music",
+    "uuid": "08e1447f6ab34337be4c971f7d0c4370",
+    "Blacklisted": "True",
+    "Reason": "Possible related to nukers"
+  },
+  {
+    "username": "luxzez",
+    "uuid": "ca956f61fe044c618d9716083c0542c3",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "HAbibibibibibi",
+    "uuid": "0c0073c252a941dbad37377c9755e723",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "thickbears",
+    "uuid": "1a968bacbc2548218e14d1f459f6dbff",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "Andy57",
+    "uuid": "edc405c9997f44498bbf2fc9d9c7e875",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "CalculusHvH",
+    "uuid": "af7a55015b034990b2f30e7ab44295de",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "Tkfka_",
+    "uuid": "e0c1b20bb94d4af1ba6fe8137fae48f5",
+    "Blacklisted": "True",
+    "Reason": "Related to alts account of griefers/nukers"
+  },
+  {
+    "username": "wsot",
+    "uuid": "184875d0e0214aa9b51877d1b37c5624",
+    "Blacklisted": "True",
+    "Reason": "Break Freebuild rules"
+  },
+  {
+    "username": "woodrose",
+    "uuid": "2c0d284f7f6a432dbcfdd079e7406903",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  },
+  {
+    "username": "itzsebi6",
+    "uuid": "17dcaab183834adca8b432390eee6021",
+    "Blacklisted": "True",
+    "Reason": "Griefing"
+  },
+  {
+    "username": "1ovey",
+    "uuid": "e1f78a224e0d4cacb2b5ebb4280d5b93",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "poggings",
+    "uuid": "8c1fbff0e079419e8bf9db71a340e865",
+    "Blacklisted": "True",
+    "Reason": "Inappropiate Builds"
+  },
+  {
+    "username": "irltraded",
+    "uuid": "8c026cd3e3344cb6b49cb385d3a138a1",
+    "Blacklisted": "True",
+    "Reason": "Break Hypixel Rules"
+  },
+  {
+    "username": "Holadelmillon",
+    "uuid": "3fa3e3c1392540cfbff320f96050296a",
+    "Blacklisted": "True",
+    "Reason": "Critical Griefing and Multi Accounts"
+  },
+  {
+    "username": "iHyperr",
+    "uuid": "1050da764aa34957ba0d4d20418d197c",
+    "Blacklisted": "True",
+    "Reason": "Demoted on other freebuild"
+  }
+]
