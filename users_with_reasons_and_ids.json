@@ -9357,5 +9357,14 @@
     "date": "August 7, 2024",
     "time": "22:51:02",
     "additional": "none"
+  },
+  {
+    "uuid": "dummy-uuid",
+    "blacklist-user-status": "true",
+    "blacklist-user-id": "#852",
+    "by": "Hainjku",
+    "date": "August 7, 2024",
+    "time": "22:54:00",
+    "additional": "none"
   }
 ]
