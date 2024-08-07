@@ -9348,5 +9348,14 @@
     "date": "7 August 2024",
     "time": "23:59 GMT-3",
     "additional": "none"
+  },
+  {
+    "uuid": "dummy-uuid",
+    "blacklist-user-status": "true",
+    "blacklist-user-id": "#851",
+    "by": "Hainjku",
+    "date": "August 7, 2024",
+    "time": "22:51:02",
+    "additional": "none"
   }
 ]
