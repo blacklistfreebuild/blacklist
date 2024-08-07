@@ -9348,27 +9348,5 @@
     "date": "7 August 2024",
     "time": "23:59 GMT-3",
     "additional": "none"
-  },
-  {
-    "username": "NuevoUsuario",
-    "uuid": "nuevo-uuid",
-    "blacklist-user-status": "true",
-    "blacklist-user-id": "#851",
-    "by": "Hainjku",
-    "reason": "Inappropiate Builds",
-    "date": "1 August 2024",
-    "time": "00:00 GMT-3",
-    "additional": "none"
-  },
-  {
-    "username": "TestUser",
-    "uuid": "dummy-uuid",
-    "blacklist-user-status": "true",
-    "blacklist-user-id": "#852",
-    "by": "Hainjku",
-    "reason": "Testing Reason",
-    "date": "August 7, 2024",
-    "time": "08:59:20",
-    "additional": "Testing Additional Info"
   }
 ]
