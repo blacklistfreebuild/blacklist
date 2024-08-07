@@ -1,1 +1,1 @@
-All the information in our discord: https://discord.gg/db5Gcqz4ee
+All the information in our discord: https://discord.gg/BzNZKNpP6Z
