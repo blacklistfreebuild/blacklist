@@ -21,4 +21,16 @@
     "time": "01:04 GMT-3",
     "additional": "none"
   }
+  },
+  {
+    "username": "Notch",
+    "uuid": "069a79f444e94726a5befca90e38aaf5",
+    "blacklist-user-status": "true",
+    "blacklist-user-id": "#3",
+    "blacklisted-by": "Hainjku",
+    "reason": "Griefing",
+    "date": "1 July 2024",
+    "time": "01:04 GMT-3",
+    "additional": "Minecraft creator"
+  }
  ]
