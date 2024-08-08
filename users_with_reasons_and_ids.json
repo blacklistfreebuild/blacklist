@@ -9379,5 +9379,16 @@
     "date": "7 August 2024",
     "time": "21:57 GMT-03:00",
     "additional": "He Told Me Noob"
+  },
+  {
+    "username": "Test",
+    "uuid": "d8d5a9237b2043d8883b1150148d6955",
+    "blacklist-user-status": "true",
+    "blacklist-user-id": "#854",
+    "blacklisted-by": "Hainjku",
+    "reason": "Testing",
+    "date": "7 August 2024",
+    "time": "21:57 GMT-03:00",
+    "additional": "Test"
   }
 ]
