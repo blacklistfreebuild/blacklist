@@ -9401,5 +9401,16 @@
     "date": "7 August 2024",
     "time": "21:57 GMT-03:00",
     "additional": "Test22"
+  },
+    {
+    "username": "Test3",
+    "uuid": "bb88d2ab24334c30bbb8e012edc19279",
+    "blacklist-user-status": "true",
+    "blacklist-user-id": "#855",
+    "blacklisted-by": "Hainjku",
+    "reason": "Testing2",
+    "date": "7 August 2024",
+    "time": "21:57 GMT-03:00",
+    "additional": "Test22"
   }
 ]
