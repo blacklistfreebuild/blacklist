@@ -9348,5 +9348,16 @@
     "date": "7 August 2024",
     "time": "23:59 GMT-3",
     "additional": "none"
+  },
+  {
+    "username": "Camaros",
+    "uuid": "67fa2c3b149c4a2cbfe6cf7eaa45db63",
+    "blacklist-user-status": "true",
+    "blacklist-user-id": "#851",
+    "blacklisted-by": "Hainjku",
+    "reason": "Bad Words",
+    "date": "7 August 2024",
+    "time": "21:45 GMT-03:00",
+    "additional": "He Told Me Noob"
   }
 ]
