@@ -9359,5 +9359,16 @@
     "date": "August 8, 2024",
     "time": "24:17:40",
     "additional": "Caught using X-Ray"
+  },
+  {
+    "username": "testuser",
+    "uuid": "dummy-uuid",
+    "blacklist-user-status": "true",
+    "blacklist-user-id": "#852",
+    "by": "Hainjku",
+    "reason": "Hacking",
+    "date": "August 8, 2024",
+    "time": "24:23:06",
+    "additional": "Caught using X-Ray"
   }
 ]
