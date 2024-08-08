@@ -9381,5 +9381,16 @@
     "date": "7 August 2024",
     "time": "21:24 GMT-03:00",
     "additional": "Caught using X-Ray"
+  },
+  {
+    "username": "Camaros",
+    "uuid": "67fa2c3b149c4a2cbfe6cf7eaa45db63",
+    "blacklist-user-status": "true",
+    "blacklist-user-id": "#854",
+    "by": "Hainjku",
+    "reason": "Hacking",
+    "date": "7 August 2024",
+    "time": "21:27 GMT-03:00",
+    "additional": "Caught using X-Ray"
   }
 ]
