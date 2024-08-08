@@ -9391,4 +9391,15 @@
     "time": "21:57 GMT-03:00",
     "additional": "Test"
   }
+  {
+    "username": "Test2",
+    "uuid": "1168c028de654698bbde9ae674404829",
+    "blacklist-user-status": "true",
+    "blacklist-user-id": "#855",
+    "blacklisted-by": "Hainjku",
+    "reason": "Testing2",
+    "date": "7 August 2024",
+    "time": "21:57 GMT-03:00",
+    "additional": "Test2"
+  }
 ]
