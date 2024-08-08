@@ -9436,5 +9436,16 @@
     "date": "7 August 2024",
     "time": "21:34 GMT-03:00",
     "additional": "Caught using X-Ray"
+  },
+  {
+    "username": "Camaros",
+    "uuid": "67fa2c3b149c4a2cbfe6cf7eaa45db63",
+    "blacklist-user-status": "true",
+    "blacklist-user-id": "#859",
+    "by": "Hainjku",
+    "reason": "Bad Words",
+    "date": "7 August 2024",
+    "time": "21:36 GMT-03:00",
+    "additional": "He Told Me Noob"
   }
 ]
