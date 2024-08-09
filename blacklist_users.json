@@ -9341,7 +9341,7 @@
   {
     "username": "Hainjku",
     "uuid": "b5af7c49841a4522a191287984036537",
-    "blacklist-user-status": "true",
+    "blacklist-user-status": "false",
     "blacklist-user-id": "#850",
     "blacklisted-by": "Hainjku",
     "reason": "Noob",
