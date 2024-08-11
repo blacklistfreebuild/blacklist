@@ -7177,10 +7177,10 @@
     "blacklist-user-status": "true",
     "blacklist-user-id": "#653",
     "blacklisted-by": "Hainjku",
-    "reason": "Demoted on other freebuild",
+    "reason": "Griefing and Doxing, Dangerous Player.",
     "date": "30 July 2024",
     "time": "04:22 GMT-3",
-    "additional": "none"
+    "additional": "This user is linked to the doxxing of Mrs_Inarious, and his alt Confl1ct_ with the same skin."
   },
   {
     "username": "OneVoteMulpr",
@@ -9229,15 +9229,15 @@
     "additional": "none"
   },
   {
-    "username": "Tkfka_",
+    "username": "Confl1ct_",
     "uuid": "e0c1b20bb94d4af1ba6fe8137fae48f5",
     "blacklist-user-status": "true",
     "blacklist-user-id": "#840",
     "blacklisted-by": "Hainjku",
-    "reason": "Related to alts account of griefers/nukers",
+    "reason": "Griefing and Doxing, Dangerous Player.",
     "date": "7 August 2024",
     "time": "13:15 GMT-3",
-    "additional": "none"
+    "additional": "This user is linked to the doxxing of Mrs_Inarious, we detected the change of nickname Tkfka_ and his alt _Tkfka with the same skin."
   },
   {
     "username": "wsot",
