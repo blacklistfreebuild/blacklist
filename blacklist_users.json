@@ -9348,5 +9348,16 @@
     "date": "7 August 2024",
     "time": "23:59 GMT-3",
     "additional": "''the creator of the blacklist is serious'' pov: the creator adds himself to blacklist"
+  },
+  {
+    "username": "Pla_tina",
+    "uuid": "bc578810011c464cb34617d3654d7030",
+    "blacklist-user-status": "true",
+    "blacklist-user-id": "#851",
+    "blacklisted-by": "Hainjku",
+    "reason": "Related to griefers and doxxing attack",
+    "date": "11 August 2024",
+    "time": "0:19 GMT-3",
+    "additional": "Related to Confl1ct_ about Mrs_Inarious doxxing 08/11/2024 0:18 GMT-3"
   }
 ]
